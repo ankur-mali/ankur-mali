@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ankur 👋  
+**Master's in Engineering Technology & Sustainable Technology Management**  
+💻 AI • Data Analytics • Software Development • Cloud Computing  
 
-<!--
-**ankur-mali/ankur-mali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 **What I Do**  
+- Build AI-powered solutions & predictive maintenance systems  
+- Develop modern web apps with **React / Next.js** & **Tailwind CSS**  
+- Explore **Azure**, **Google Cloud**, and Industry 4.0 applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💡 **I Code With**  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,tailwind,html,css,dotnet,spring,mysql,azure,gcp,docker" />
+</p>
+
+---
+
+🌟 **Highlighted Projects**  
+- 🤖 **LLM-Powered Semantic Book Recommender** – NLP + LangChain + Streamlit  
+- 🛠 **Predictive Maintenance Dashboard** – Animated sensor data & API-driven UI  
+- 📦 **Vehicle Configurator (B2B)** – Microservices, Docker, REST APIs  
+
+---
+
+📫 **Let's Connect**  
+[LinkedIn](https://linkedin.com/in/ankur-mali-/) | [Portfolio](https://ankurmali.com) | [Email](mailto:ankurmali02@gmail.com)  
+
+> *"Turning ideas into impactful digital solutions."*
+
