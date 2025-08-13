@@ -1,13 +1,13 @@
 # Hi, I'm Ankur 👋  
 **Master's in Engineering Technology & Sustainable Technology Management**  
-💻 AI • Data Analytics • Software Development • Cloud Computing  
+💻 AI Developer • Software Developer
 
 ---
 
 🚀 **What I Do**  
-- Build AI-powered solutions & predictive maintenance systems  
+- Build AI-powered solutions   
 - Develop modern web apps with **React / Next.js** & **Tailwind CSS**  
-- Explore **Azure**, **Google Cloud**, and Industry 4.0 applications  
+- Explore **Azure**, **Google Cloud**
 
 ---
 
@@ -20,7 +20,7 @@
 
 🌟 **Highlighted Projects**  
 - 🤖 **LLM-Powered Semantic Book Recommender** – NLP + LangChain + Streamlit  
-- 🛠 **Predictive Maintenance Dashboard** – Animated sensor data & API-driven UI  
+- 🛠 **Predictive Maintenance Dashboard** – Animated sensor data   
 - 📦 **Vehicle Configurator (B2B)** – Microservices, Docker, REST APIs  
 
 ---
