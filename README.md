@@ -19,7 +19,8 @@
 ---
 
 🌟 **Highlighted Projects**  
-- 🤖 **LLM-Powered Semantic Book Recommender** – NLP + LangChain + Streamlit  
+-  [**Mental Health Copilot: Reddit-Based Mental Health Insights using NLP, LLMs, and RAG**](https://github.com/ankur-mali/Mental-Health-Copilot-RAG)
+- 🤖 **LLM-Powered Semantic Book Recommender** – NLP + LangChain + Streamlit
 - 🛠 **Predictive Maintenance Dashboard** – Animated sensor data   
 - 📦 **Vehicle Configurator (B2B)** – Microservices, Docker, REST APIs  
 
